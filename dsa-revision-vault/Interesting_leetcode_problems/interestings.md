@@ -6,3 +6,4 @@
 - Implement Trie (Prefix Tree) (Trie) — LeetCode 208
 - Sliding Window Maximum (Deque / Sliding Window) — LeetCode 239
 - Serialize and Deserialize Binary Tree (Tree / Design) — LeetCode 297
+- Find Median from Data Stream (Heap / Design) — LeetCode 295
