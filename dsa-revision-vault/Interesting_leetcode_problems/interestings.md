@@ -9,3 +9,4 @@
 - Find Median from Data Stream (Heap / Design) — LeetCode 295
 - N-Queens (Backtracking) — LeetCode 51
 - Rotate List (Linked List) — LeetCode 61
+- Remove Nth Node From End of List (Linked List / Two Pointers) — LeetCode 19
