@@ -1,4 +1,3 @@
-
 - Best Time to Buy and Sell Stock using Strategy - Leetcode 3652
 - 3Sum (Two Pointers) — LeetCode 15
 - Lowest Common Ancestor of a Binary Tree (Tree / Recursion) — LeetCode 236
@@ -12,3 +11,4 @@
 - Remove Nth Node From End of List (Linked List / Two Pointers) — LeetCode 19
 - Reverse Nodes in k-Group (Linked List) — LeetCode 25
 - Largest Rectangle in Histogram (Stack / Monotonic Stack) — LeetCode 84
+- Maximal Square (Dynamic Programming / Matrix) — LeetCode 221
