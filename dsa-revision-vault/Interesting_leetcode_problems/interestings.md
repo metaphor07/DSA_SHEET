@@ -11,3 +11,4 @@
 - Rotate List (Linked List) — LeetCode 61
 - Remove Nth Node From End of List (Linked List / Two Pointers) — LeetCode 19
 - Reverse Nodes in k-Group (Linked List) — LeetCode 25
+- Largest Rectangle in Histogram (Stack / Monotonic Stack) — LeetCode 84
