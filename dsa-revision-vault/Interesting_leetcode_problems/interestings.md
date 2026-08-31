@@ -10,3 +10,4 @@
 - N-Queens (Backtracking) — LeetCode 51
 - Rotate List (Linked List) — LeetCode 61
 - Remove Nth Node From End of List (Linked List / Two Pointers) — LeetCode 19
+- Reverse Nodes in k-Group (Linked List) — LeetCode 25
