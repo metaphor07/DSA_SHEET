@@ -13,3 +13,4 @@
 - Largest Rectangle in Histogram (Stack / Monotonic Stack) — LeetCode 84
 - Maximal Square (Dynamic Programming / Matrix) — LeetCode 221
 - Gas Station (Greedy) — LeetCode 134
+- Median of Two Sorted Arrays (Binary Search) — LeetCode 4
