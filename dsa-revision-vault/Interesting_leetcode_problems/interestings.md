@@ -19,3 +19,4 @@
 - Construct Binary Tree from Preorder and Inorder Traversal (Tree / Recursion) — LeetCode 105
 - First Missing Positive (Array) — LeetCode 41
 - Regular Expression Matching (DP / String) — LeetCode 10
+- Maximum Product Subarray (Dynamic Programming / Array) — LeetCode 152
