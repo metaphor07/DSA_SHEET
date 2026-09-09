@@ -20,3 +20,4 @@
 - First Missing Positive (Array) — LeetCode 41
 - Regular Expression Matching (DP / String) — LeetCode 10
 - Maximum Product Subarray (Dynamic Programming / Array) — LeetCode 152
+- Next Permutation (Array) — LeetCode 31
