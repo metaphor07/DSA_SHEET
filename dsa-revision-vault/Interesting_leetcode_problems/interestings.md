@@ -22,3 +22,4 @@
 - Maximum Product Subarray (Dynamic Programming / Array) — LeetCode 152
 - Next Permutation (Array) — LeetCode 31
 - Sudoku Solver (Backtracking) — LeetCode 37
+- Allocate Minimum Pages (GFG)
