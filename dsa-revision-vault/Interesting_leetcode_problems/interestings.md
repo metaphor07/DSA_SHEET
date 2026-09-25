@@ -23,3 +23,4 @@
 - Next Permutation (Array) — LeetCode 31
 - Sudoku Solver (Backtracking) — LeetCode 37
 - Allocate Minimum Pages (GFG)
+- Strings — KMP Algorithm / LPS Array (https://www.geeksforgeeks.org/problems/search-pattern0205/1?utm_source=chatgpt.com)
