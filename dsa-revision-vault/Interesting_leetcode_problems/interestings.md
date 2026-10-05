@@ -25,3 +25,4 @@
 - Allocate Minimum Pages (GFG)
 - ***Strings — KMP Algorithm / LPS Array (https://www.geeksforgeeks.org/problems/search-pattern0205/1?utm_source=chatgpt.com)
 - Matrix Chain Multiplication - GFG
+- Count Strongly Connected Components - GFG
