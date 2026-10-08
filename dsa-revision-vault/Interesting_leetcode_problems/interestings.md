@@ -26,5 +26,5 @@
 - ***Strings — KMP Algorithm / LPS Array (https://www.geeksforgeeks.org/problems/search-pattern0205/1?utm_source=chatgpt.com)
 - Matrix Chain Multiplication - GFG
 - Count Strongly Connected Components - GFG
-- 863. All Nodes Distance K in Binary Tree
-- 987. Vertical Order Traversal of a Binary Tree
+- All Nodes Distance K in Binary Tree — LeetCode 863
+- Vertical Order Traversal of a Binary Tree — LeetCode 987
