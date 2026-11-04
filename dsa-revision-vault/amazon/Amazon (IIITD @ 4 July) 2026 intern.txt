@@ -1,0 +1,4 @@
+*Amazon (IIITD @ 4 July):* 2026 intern 
+
+1. You are given an array A of distinct positive integers of length n. Your task is to determine the number of ways to rearrange the elements of the array such that the maximum length of any contiguous subarray consisting entirely of even numbers is at most 2. Since the answer can be very large, output it modulo 10⁹ + 7.
+2. You are given a string s of length n, consisting of lowercase English letters. Determine the number of subsequences of s such that the subsequence can be rearranged into a palindrome. The empty subsequence is also considered palindromic.
